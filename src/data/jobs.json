@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-1.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":2,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-2.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":3,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-3.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":4,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-4.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":5,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-5.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":6,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-6.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":7,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-7.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     },
+    {
+        "id":8,
+        "title":"Senior Editor" ,
+        "image":"./assets/images/company-logo-8.png" ,
+        "date":"3 days ago",
+        "type":"Full-time",
+        "company":"Artistre Studio",
+        "location":"San Francisco, CA"
+     }
+  ]
+  

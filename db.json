@@ -1,0 +1,90 @@
+{
+    "posts": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    },
+
+    "jobs": [{
+            "id": 1,
+            "title": "Senddior Editor",
+            "image": "./assets/images/company-logo-1.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 2,
+            "title": "Senisdsdsdsor Editor",
+            "image": "./assets/images/company-logo-2.png",
+            "date": "3 dadsdys ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 3,
+            "title": "Seniodsdsdsdsr Editor",
+            "image": "./assets/images/company-logo-3.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 4,
+            "title": "sdsds Editor",
+            "image": "./assets/images/company-logo-4.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 5,
+            "title": "Senior Editor",
+            "image": "./assets/images/company-logo-5.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 6,
+            "title": "Senior Editor",
+            "image": "./assets/images/company-logo-6.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 7,
+            "title": "Senior Editor",
+            "image": "./assets/images/company-logo-7.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        },
+        {
+            "id": 8,
+            "title": "Senior Editor",
+            "image": "./assets/images/company-logo-8.png",
+            "date": "3 days ago",
+            "type": "Full-time",
+            "company": "Artistre Studio",
+            "location": "San Francisco, CA"
+        }
+    ],
+    "categories": ["Business Development", "Construction", "Customer Service", "Education", "Engineering", "Finance", "Healthcare", "Human Resources", "Information Technology", "Legal", "Manufacturing", "Marketing", "Operations", "Retail", "Sales", "Support", "Technical Support", "Other"]
+}
